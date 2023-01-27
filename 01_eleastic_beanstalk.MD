@@ -29,5 +29,5 @@ A lot of times web apps will need both working together.
 ![ec2_instance](/assets/ec2.png) EC2 instances (1 or more)     
 ![asg](/assets/asg.png) ASG is an Auto Scaling Group.  The size of an Auto Scaling group depends on the number of instances that you set as the desired capacity. You can adjust its size to meet demand, either manually or by using automatic scaling.   
 ![elastic_load_balancer](/assets/elb.png) Elastic load balancer (1 or more)   
-![sqs](/assets/sqs.png) SQS Queue     
+![sqs](/assets/sqs.png) SQS Queue. SQS is an AWS service that provides fully managed message queueing and access to two queue types, one focusing on maximum throughput and the FIFO format.    
 
