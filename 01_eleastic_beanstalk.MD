@@ -22,6 +22,9 @@ You pick the resources you want, and AWS sets everything up in the background. T
 * NodeJS > ExpressJS
 
 ## Web vs Work Environment
+When creating an EB environment, you're asked to pick between Web vs Worker environments.    
+Website? Go for Web.  Running background jobs?  Go for Worker.    
+A lot of times web apps will need both working together.
 ![web_v_workenvironment](/assets/img1.png)
 ![ec2_instance](/assets/ec2.png) EC2 instances (1 or more)     
 ![asg](/assets/asg.png) ASG is an Auto Scaling Group.     
