@@ -20,3 +20,6 @@ You pick the resources you want, and AWS sets everything up in the background. T
 * PHP > Laravel
 * Tomcat > Spring
 * NodeJS > ExpressJS
+
+## Web vs Work Environment
+![web_v_workenvironment](/assets/img1.png)
