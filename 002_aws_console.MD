@@ -1,7 +1,11 @@
 # AWS Console
 
 ## AWS Global Services
-Examples are IAM, Route 53 (DNS), CloudFrount (CDN), and Web Application Firewall (WAF)
+Examples are     
+IAM     
+Route 53 (DNS)      
+CloudFrount (CDN)    
+Web Application Firewall (WAF)    
 
 ## AWS region-scoped services
 Most services are region-scoped.    
